@@ -8,7 +8,7 @@ const StorySummary = ({ title, intro }) => {
         <h4 className="uppercase bold text-primary">{title}</h4>
         <p>{intro}</p>
         <Link to="/" className="btn-primary">
-          Start from the beginning
+          Restart from the beginning
         </Link>
       </div>
     </div>
