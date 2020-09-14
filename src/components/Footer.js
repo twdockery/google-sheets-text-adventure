@@ -14,7 +14,7 @@ const Footer = ({ title, intro }) => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Make your own text adventure!
+            Make your own text adventures!
           </a>
         </div>
       </div>
