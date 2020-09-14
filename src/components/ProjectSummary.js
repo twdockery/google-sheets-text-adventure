@@ -6,7 +6,7 @@ const ProjectSummary = () => {
       <div className="container">
         <h4 className="uppercase bold">A text adventure</h4>
         <p>
-          It’s easy to make your own text adventures. There’s no coding
+          Tyler Says: It’s easy to make your own text adventures. There’s no coding
           involved. Check the link below to make your own story!
         </p>
         <a
